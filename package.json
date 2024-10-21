@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.4.1"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "publish": "vitepress build docs && aws s3 sync /Users/greg/Code/bws/docs/.vitepress/dist s3://burnswebservices.com  "
+  }
+}
