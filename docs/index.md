@@ -73,4 +73,7 @@ features:
   - title: Vue
     details: Vue.js is a progressive JavaScript framework for building user interfaces.
     link: /vue
+  - title: MySQL
+    details: MySQL is an open-source relational database management system.
+    link: /mysql
 ---

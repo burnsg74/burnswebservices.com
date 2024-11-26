@@ -6,6 +6,6 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
-    "publish": "vitepress build docs && aws s3 sync /Users/greg/Code/bws/docs/.vitepress/dist s3://burnswebservices.com  "
+    "publish": "vitepress build docs && aws s3 sync /Users/greg/Code/burnswebservices.com/docs/.vitepress/dist s3://burnswebservices.com  "
   }
 }
