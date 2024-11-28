@@ -1,6 +1,5 @@
 # CSS
 
-
 CSS (Cascading Style Sheets) allows you to create visually stunning web pages, but how does it really work? In this guide, we'll delve into the basics of CSS with a simple syntax example and explain some key concepts of the language.
 
 Welcome to the world of CSS, the magical language that brings style and flair to your web pages! 🎨✨

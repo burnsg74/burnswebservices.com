@@ -1,8 +1,9 @@
 
 # Redux 
 
-A JS library for predictable and maintainable global state management
+https://redux.js.org/
 
+A JS library for predictable and maintainable global state management
 
 ## Installation
 

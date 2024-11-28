@@ -13,12 +13,21 @@ hero:
 #      text: CSS
 #      link: /css
 features:
+  - title: AI
+    details: AI (Artificial Intelligence) refers to the simulation of human intelligence in machines that are programmed to think and learn.
+    link: /ai
+  - title: Angular
+    details: Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
+    link: /angular
   - title: AWS
     details: AWS (Amazon Web Services) is a comprehensive cloud computing platform.
     link: /aws
   - title: CSS
     details: CSS (Cascading Style Sheets) is used to describe the look and formatting of a document written in HTML.
     link: /css
+  - title: Docker
+    details: Docker is an open platform for developing, shipping, and running applications in containers.
+    link: /docker
   - title: Express
     details: Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
     link: /express
@@ -37,12 +46,24 @@ features:
   - title: JetBrains
     details: JetBrains is a software development company whose tools are targeted towards software developers and project managers.
     link: /jetbrains
+  - title: Job
+    details: Job typically refers to a task or piece of work, especially one that is paid.
+    link: /job
+  - title: Laravel
+    details: Laravel is a free, open-source PHP web framework, intended for the development of web applications following the model-view-controller architectural pattern.
+    link: /laravel
+  - title: MySQL
+    details: MySQL is an open-source relational database management system.
+    link: /mysql
   - title: Node.js
     details: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
     link: /node
   - title: PHP
     details: PHP (Hypertext Preprocessor) is an open-source server-side scripting language designed for web development.
     link: /php
+  - title: Python
+    details: Python is a high-level, interpreted programming language known for its ease of use and readability.
+    link: /python
   - title: Raycast
     details: Raycast is a command launcher that allows you to control your tools with a few keystrokes, boosting productivity and efficiency.
     link: /raycast
@@ -61,6 +82,9 @@ features:
   - title: Rust
     details: Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency.
     link: /rust
+  - title: Spring
+    details: Spring is a comprehensive framework for enterprise Java development.
+    link: /spring
   - title: Terraform
     details: Terraform is an open-source infrastructure as code software tool created by HashiCorp.
     link: /terraform
@@ -73,7 +97,7 @@ features:
   - title: Vue
     details: Vue.js is a progressive JavaScript framework for building user interfaces.
     link: /vue
-  - title: MySQL
-    details: MySQL is an open-source relational database management system.
-    link: /mysql
+  - title: Zed
+    details: Zed is a fully offline-capable, open-source, and lightweight code editor.
+    link: /zed
 ---
