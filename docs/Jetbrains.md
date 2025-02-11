@@ -1,4 +1,4 @@
-# Jetbrains IDEs
+# JetBrains IDEs
 
 https://www.jetbrains.com/
 

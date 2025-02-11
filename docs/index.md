@@ -13,15 +13,27 @@ hero:
 #      text: CSS
 #      link: /css
 features:
+  - title: Agile
+    details: Agile project management is a project management approach that breaks projects into phases for planning, executing, and evaluating.
+    link: /Agile
   - title: AI
     details: AI (Artificial Intelligence) refers to the simulation of human intelligence in machines that are programmed to think and learn.
-    link: /ai
+    link: /AI
   - title: Angular
     details: Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
     link: /angular
+  - title: Apache
+    details: Apache is a free and open-source cross-platform web server software package.
+    link: /apache
   - title: AWS
     details: AWS (Amazon Web Services) is a comprehensive cloud computing platform.
     link: /aws
+  - title: Clean Code
+    details: Clean Code is a software craftsmanship concept that helps developers write better, more maintainable, and more scalable software.
+    link: /Clean Code
+  - title: Cron Job
+    details: Cron job is a task that is scheduled to run at a specific time or date.
+    link: /Cron Job
   - title: CSS
     details: CSS (Cascading Style Sheets) is used to describe the look and formatting of a document written in HTML.
     link: /css
@@ -46,21 +58,33 @@ features:
   - title: JetBrains
     details: JetBrains is a software development company whose tools are targeted towards software developers and project managers.
     link: /jetbrains
-  - title: Job
-    details: Job typically refers to a task or piece of work, especially one that is paid.
-    link: /job
+  - title: Job Search
+    details: Job Search notes.
+    link: /job search
   - title: Laravel
     details: Laravel is a free, open-source PHP web framework, intended for the development of web applications following the model-view-controller architectural pattern.
     link: /laravel
+  - title: Linux
+    details: Linux is a family of open-source Unix-like operating systems based on the Linux kernel.
+    link: /linux
   - title: MySQL
     details: MySQL is an open-source relational database management system.
     link: /mysql
+  - title: ngrok
+    details: ngrok is a reverse proxy that helps developers develop, test, debug, and share local web applications.
+    link: /ngrok
   - title: Node.js
     details: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
     link: /node
+  - title: Obsidian
+    details: Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+    link: /Obsidian
   - title: PHP
     details: PHP (Hypertext Preprocessor) is an open-source server-side scripting language designed for web development.
     link: /php
+  - title: Playwright
+    details: Playwright is a Node.js library to automate Chromium, Firefox and WebKit with a single API.
+    link: /playwright
   - title: Python
     details: Python is a high-level, interpreted programming language known for its ease of use and readability.
     link: /python
@@ -76,15 +100,9 @@ features:
   - title: Redux
     details: Redux is a predictable state container for JavaScript apps.
     link: /redux
-  - title: Ruby
-    details: Ruby is a dynamic, open-source programming language with a focus on simplicity and productivity.
-    link: /ruby
   - title: Rust
     details: Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency.
     link: /rust
-  - title: Spring
-    details: Spring is a comprehensive framework for enterprise Java development.
-    link: /spring
   - title: Terraform
     details: Terraform is an open-source infrastructure as code software tool created by HashiCorp.
     link: /terraform

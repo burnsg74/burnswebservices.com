@@ -3,7 +3,7 @@
     "vitepress": "^1.4.1"
   },
   "scripts": {
-    "dev": "vitepress dev docs",
+    "dev": "vitepress dev docs --open",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "publish": "vitepress build docs && aws s3 sync /Users/greg/Code/burnswebservices.com/docs/.vitepress/dist s3://burnswebservices.com  "
