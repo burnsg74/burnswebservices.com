@@ -29,5 +29,28 @@ Large Language Models are a type of AI that is specifically designed to understa
 
 The integration of AI, ML, and LLMs into various sectors is driving innovation and efficiency. In healthcare, AI is used for predictive analytics and personalized medicine. In finance, ML algorithms are employed for fraud detection and risk management. LLMs are revolutionizing customer service with chatbots that provide human-like interactions.
 
+---
+
+### AI Models & Use Cases
+
+| **Model**           | **Description**                                                                 | **When to Use**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **GPT-4 (OpenAI)**   | Multimodal LLM with ~1.8T parameters. Processes text/images, excels in reasoning.             | Chatbots, code generation, creative writing, complex problem-solving.           |
+| **Gemini (Google)**  | Multimodal model (text, images, audio). Optimized for real-time collaboration.  | Multimodal search, data analysis, interactive educational tools.                |
+| **BERT (Google)**    | Transformer-based NLP model pre-trained on bidirectional context.              | Search engine optimization, sentiment analysis, question-answering systems.     |
+| **DALL-E 3 (OpenAI)**| Text-to-image model with improved prompt adherence and photorealism.            | Marketing visuals, concept art, product prototyping.                            |
+| **Stable Diffusion** | Open-source latent diffusion model for image generation.                        | Customizable art/design workflows, low-resource environments.                   |
+| **Whisper (OpenAI)** | Robust speech recognition across 99 languages.                                  | Transcription services, voice assistants, multilingual customer support.        |
+| **YOLOv8**           | Real-time object detection with high accuracy (e.g., 5 ms latency at 640px).    | Autonomous drones, surveillance systems, retail inventory tracking.             |
+| **CLIP (OpenAI)**    | Vision-language model linking text descriptions to images.                      | Content moderation, visual search engines, accessibility tools for the blind.   |
+| **LLaMA 2 (Meta)**   | Open-source LLM (7B-70B parameters) fine-tuned for safety.                      | Cost-effective enterprise chatbots, research prototyping.                       |
+| **EfficientNet**     | Scalable CNN with state-of-the-art accuracy/compute efficiency.                 | Mobile app image classification, IoT device integration.                        |
+
+---
+
+**Key Trends (as of 2025):**
+-  **Domain-Specialized Models**: PaLM 2 for medicine/finance, CodeLlama for software.
+-  **Edge AI**: Smaller models (<1B params) like TinyLlama for on-device inference.
+-  **Multimodal Agents**: Models integrating text, vision, and robotics APIs (e.g., OpenAI’s GPT-4 + Figure 01).
 
 

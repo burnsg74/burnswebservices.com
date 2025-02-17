@@ -15,10 +15,10 @@ hero:
 features:
   - title: Agile
     details: Agile project management is a project management approach that breaks projects into phases for planning, executing, and evaluating.
-    link: /Agile
+    link: /agile
   - title: AI
     details: AI (Artificial Intelligence) refers to the simulation of human intelligence in machines that are programmed to think and learn.
-    link: /AI
+    link: /ai
   - title: Angular
     details: Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
     link: /angular
@@ -30,10 +30,10 @@ features:
     link: /aws
   - title: Clean Code
     details: Clean Code is a software craftsmanship concept that helps developers write better, more maintainable, and more scalable software.
-    link: /Clean Code
+    link: /clean code
   - title: Cron Job
     details: Cron job is a task that is scheduled to run at a specific time or date.
-    link: /Cron Job
+    link: /cron job
   - title: CSS
     details: CSS (Cascading Style Sheets) is used to describe the look and formatting of a document written in HTML.
     link: /css
@@ -78,7 +78,7 @@ features:
     link: /node
   - title: Obsidian
     details: Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-    link: /Obsidian
+    link: /obsidian
   - title: PHP
     details: PHP (Hypertext Preprocessor) is an open-source server-side scripting language designed for web development.
     link: /php

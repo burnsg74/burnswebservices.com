@@ -9,9 +9,6 @@ Obsidian Markdown is a plain text formatting syntax used in the Obsidian applica
 
 It is an extension of the common Markdown syntax and includes additional features specific to Obsidian, such as support for creating connections between notes using [double brackets](app://obsidian.md/double%20brackets), linking to specific headings within a note, and embedding various types of media like images and PDFs. Obsidian Markdown is designed to create interconnected and structured notes for effective information management.
 
-## Test
-
-
 # Open Source Libraries
 
 Obsidian, a note-taking and knowledge management application, primarily uses the following open-source libraries:
